@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I love cats 🐈
 
 
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -48,7 +46,6 @@
 
 <br>
 <br>
-<br>
 
 ### Examples of Work
 
@@ -58,20 +55,18 @@
 [<img  align="left" alt="SnapMenu" width="250px" src="https://www.carlospadron.dev/images/snapMenu.png" style="padding-right:10px;" />](https://qrmenu-snapmenu.carlospadron.dev/restaurante)
 
 
-
-
-
-<br>
-<br>
-<br>
-
 ### 📫 How to reach me: 
 
-[<img align="left" alt="Portfolio" width="26px" src="https://www.carlospadron.dev/images/favicon.png" style="padding-right:10px;" />](https://www.carlospadron.dev)
+[<img align="left"    alt="Portfolio" width="26px" src="https://www.carlospadron.dev/images/favicon.png" style="padding-right:10px;" />](https://www.carlospadron.dev) https://www.carlospadron.dev 
 
-[<img align="left" alt="Mail" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mail-2844876-2365225.png" style="padding-right:10px;" />](mailto:c_0509@hotmail.com)
+[<img  align="left"   alt="Mail" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mail-2844876-2365225.png" style="padding-right:10px;" />](mailto:c_0509@hotmail.com) c_0509@hotmail.com
 
 
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/Carlos-Padron)
+[<img  align="left"   alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/Carlos-Padron) Carlos Padron
+
+
+
+
+
           
 
