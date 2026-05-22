@@ -47,17 +47,8 @@
 <br>
 <br>
 
-### Examples of Work
-
-[<img align="left"  alt="pediaHealth" width="250px" src="https://www.carlospadron.dev/images/pediaHealth.png" style="padding-right:10px;" />](https://play.google.com/store/apps/details?id=dev.carlospadron.pediaHealth)
-
-
-[<img  align="left" alt="SnapMenu" width="250px" src="https://www.carlospadron.dev/images/snapMenu.png" style="padding-right:10px;" />](https://qrmenu-snapmenu.carlospadron.dev/restaurante)
-
 
 ### 📫 How to reach me: 
-
-[<img align="left"    alt="Portfolio" width="26px" src="https://www.carlospadron.dev/images/favicon.png" style="padding-right:10px;" />](https://www.carlospadron.dev) https://www.carlospadron.dev 
 
 [<img  align="left"   alt="Mail" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mail-2844876-2365225.png" style="padding-right:10px;" />](mailto:c_0509@hotmail.com) c_0509@hotmail.com
 
